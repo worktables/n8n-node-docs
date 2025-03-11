@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css">
+
 # n8n-node-docs
 
 ---
