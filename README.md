@@ -1,7 +1,5 @@
 # n8n-node-docs
 
-Here's the complete documentation for your n8n custom node:
-
 ---
 
 # **Monday.com API Integration Node (n8n Custom Node)**
